@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Insta</string>
+    <string name="title_home">Home</string>
+    <string name="title_upload">Upload</string>
+    <string name="title_profile">Profile</string>
+    <string name="camera">camera</string>
+    <string name="logo">logo</string>
+    <string name="dm">dm</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="or">Or</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="username">username</string>
+    <string name="logout">Logout</string>
+    <string name="capture_image">Capture Image</string>
+</resources>

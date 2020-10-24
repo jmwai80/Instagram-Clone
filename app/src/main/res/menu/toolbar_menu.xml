@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--    <item-->
+<!--        android:id="@+id/camera"-->
+<!--        android:icon="@drawable/camera_shadow_fill"-->
+<!--        android:title="@string/camera"-->
+<!--        app:showAsAction="always"/>-->
+
+<!--    <item-->
+<!--        android:id="@+id/home_title"-->
+<!--        android:icon="@drawable/nav_logo_whiteout"-->
+<!--        android:title="@string/logo"-->
+<!--        app:showAsAction="always"/>-->
+
+<!--    <item-->
+<!--        android:id="@+id/dm"-->
+<!--        android:icon="@drawable/nav_inbox_paper_plane"-->
+<!--        android:title="@string/dm"-->
+<!--        app:showAsAction="always"/>-->
+</menu>
